@@ -1,0 +1,12 @@
+,origin,destination,departure_day,arrival_day,departure_time,arrival_time,airline,duration,stops,layovers,price
+0,istanbul,moscow,30 AUG,21 SEP,20:10,02:05+1,Pegasus,5 h 55 m,1 stop,1 h 0 m GZP,"TRY 1,998"
+1,istanbul,moscow,30 AUG,21 SEP,12:30,16:00,Aeroflot,3 h 30 m,Non-stop,,"TRY 2,359"
+2,istanbul,moscow,30 AUG,21 SEP,18:50,22:25,Aeroflot,3 h 35 m,Non-stop,,"TRY 2,359"
+3,istanbul,moscow,30 AUG,21 SEP,13:50,16:55,Pobeda,3 h 5 m,Non-stop,,"TRY 2,654"
+4,istanbul,moscow,30 AUG,21 SEP,10:50,13:45,Pegasus,2 h 55 m,Non-stop,,"TRY 3,113"
+5,istanbul,moscow,30 AUG,21 SEP,08:35,02:05+1,Pegasus,17 h 30 m,1 stop,12 h 35 m GZP,"TRY 2,164"
+6,istanbul,moscow,30 AUG,21 SEP,06:30,14:30,Pegasus,8 h 0 m,1 stop,2 h 55 m AYT,"TRY 2,502"
+7,istanbul,moscow,30 AUG,21 SEP,15:15,19:00,Aeroflot,3 h 45 m,Non-stop,,"TRY 3,539"
+8,istanbul,moscow,30 AUG,21 SEP,16:05,18:50,Turkish Airlines,2 h 45 m,Non-stop,,"TRY 4,224"
+9,istanbul,moscow,30 AUG,21 SEP,22:05,00:50+1,Turkish Airlines,2 h 45 m,Non-stop,,"TRY 7,251"
+10,istanbul,moscow,30 AUG,21 SEP,07:10,09:55,Turkish Airlines,2 h 45 m,Non-stop,,"TRY 13,613"

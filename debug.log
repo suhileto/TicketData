@@ -1,0 +1,12 @@
+[0827/113239.696:ERROR:process_reader_win.cc(123)] NtOpenThread: {Erisim Yok} Bir islem bir nesneye erismek istedi, ancak istedigi erisimin haklari kendisine verilmis degil. (0xc0000022)
+[0827/113239.697:ERROR:exception_snapshot_win.cc(99)] thread ID 14744 not found in process
+[0827/113239.940:ERROR:process_reader_win.cc(123)] NtOpenThread: {Erisim Yok} Bir islem bir nesneye erismek istedi, ancak istedigi erisimin haklari kendisine verilmis degil. (0xc0000022)
+[0827/113239.940:ERROR:exception_snapshot_win.cc(99)] thread ID 16260 not found in process
+[0827/113240.035:ERROR:process_reader_win.cc(123)] NtOpenThread: {Erisim Yok} Bir islem bir nesneye erismek istedi, ancak istedigi erisimin haklari kendisine verilmis degil. (0xc0000022)
+[0827/113240.036:ERROR:exception_snapshot_win.cc(99)] thread ID 17140 not found in process
+[0827/113240.151:ERROR:process_reader_win.cc(123)] NtOpenThread: {Erisim Yok} Bir islem bir nesneye erismek istedi, ancak istedigi erisimin haklari kendisine verilmis degil. (0xc0000022)
+[0827/113240.151:ERROR:exception_snapshot_win.cc(99)] thread ID 16012 not found in process
+[0827/113240.304:ERROR:process_reader_win.cc(123)] NtOpenThread: {Erisim Yok} Bir islem bir nesneye erismek istedi, ancak istedigi erisimin haklari kendisine verilmis degil. (0xc0000022)
+[0827/113240.305:ERROR:exception_snapshot_win.cc(99)] thread ID 17216 not found in process
+[0827/113240.444:ERROR:process_reader_win.cc(123)] NtOpenThread: {Erisim Yok} Bir islem bir nesneye erismek istedi, ancak istedigi erisimin haklari kendisine verilmis degil. (0xc0000022)
+[0827/113240.445:ERROR:exception_snapshot_win.cc(99)] thread ID 2044 not found in process
